@@ -6,6 +6,8 @@
 
 ![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue) ![PWA](https://img.shields.io/badge/PWA-installable-5a4fcf) ![Offline](https://img.shields.io/badge/offline-yes-2e7d32) ![No dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)
 
+**Try it:** https://gedachtgemacht.github.io/uebergabe/ (works in any phone browser, install via "Add to Home Screen")
+
 The app interface is in German.
 
 Every move-in and move-out needs a handover report. If you want to do it digitally, you end up with apps that are part of landlord software, require an account, upload data to someone else's server, or charge per report or by subscription. The alternative is a printed template, with the photos lying loose on your phone. übergabe. runs offline in the browser, attaches photos directly to the defect, is signed by both sides on the same device, and goes out as a PDF and a file.
